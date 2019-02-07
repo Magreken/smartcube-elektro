@@ -1,2 +1,2 @@
 # smartcube-elektro
-Elektrotechnikteilder Diplomarbeit
+Elektrotechnikteil der Diplomarbeit
